@@ -10,7 +10,7 @@
 
 
 Principais tecnologias utilizadas: 
--  
+-
 -  React.js
 -  Tailwindcss 
 -  HTML5
@@ -19,4 +19,7 @@ Principais tecnologias utilizadas:
 -  react-router-dom
 -  Lottie
 -  Material Ui
+-  Zustand
+-  react-modal
+-  axios
 
