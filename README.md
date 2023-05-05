@@ -1,5 +1,5 @@
 # shape
-Link do projeto : https://shape-rho.vercel.app 
+-  🛠 Link para o projeto : https://shape-rho.vercel.app 
 
 
 <div>
@@ -7,4 +7,16 @@ Link do projeto : https://shape-rho.vercel.app
 </div>
 
 
+
+
+Principais tecnologias utilizadas: 
+-  
+-  React.js
+-  Tailwindcss 
+-  HTML5
+-  TypeScript
+-  react-hook-form
+-  react-router-dom
+-  Lottie
+-  Material Ui
 
