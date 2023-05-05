@@ -5,7 +5,7 @@
 
 
 <div>
-<img  width="100%" align="center" src= "https://user-images.githubusercontent.com/102775805/236373666-98ba0d3f-0327-4858-b731-f8bbc5802769.png"/>
+<img  width="100%" align="center" src= "https://user-images.githubusercontent.com/102775805/236507267-fce17791-1585-42cc-bb89-97e67db332af.png"/>
 </div>
 
 
@@ -24,4 +24,5 @@ Principais tecnologias utilizadas:
 -  Zustand
 -  react-modal
 -  axios
+
 
