@@ -1,5 +1,10 @@
 # shape
-https://shape-rho.vercel.app 
+Link do projeto : https://shape-rho.vercel.app 
 
-<img src="![image](https://user-images.githubusercontent.com/102775805/236373423-d99d5418-4399-4aad-8223-c8393dba2d56.png)
-"/>
+
+<div>
+<img  width="100%" align="center" src= "https://user-images.githubusercontent.com/102775805/236373666-98ba0d3f-0327-4858-b731-f8bbc5802769.png"/>
+</div>
+
+
+
