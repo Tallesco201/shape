@@ -1,5 +1,7 @@
 # shape
 -  🛠 Link para o projeto : https://shape-rho.vercel.app 
+-
+   .Um website desenvolvido na intenção de facilitar a vida do Dev ao iniciar um novo projeto em React❤️
 
 
 <div>
